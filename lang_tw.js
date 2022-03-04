@@ -55,7 +55,7 @@ const SETTING_CONV_MEMO         = '超商取貨訂單無法選擇連假作為配
 // => 置中 : TextCenter
 // **************************************************
 const SETTING_MEMO_TOP          = '您的訂單明細';
-const SETTING_MEMO_BOTTOM       = '如想更改訂單內容請聯繫客服，lineID搜尋：<a href="https://line.me/R/ti/p/%40fhl1857j" target="_blank">@fhl1857j</a>';
+const SETTING_MEMO_BOTTOM       = '如想更改訂單內容請聯繫客服，Facebook：<a href="https://www.facebook.com/viage.hk" target="_blank">https://www.facebook.com/viage.hk</a>';
 const SETTING_MEMO_DATE         = "國定假日無法選擇";
 const SETTING_MEMO_STYLE        = 'TextLeft';
 
